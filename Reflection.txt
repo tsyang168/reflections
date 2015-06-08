@@ -1,0 +1,14 @@
+version control is much like law firm document control
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+back out changes quickly
+
+Git Commands:
+Git Log
+git checkout
+git clone
+git init
+git status
+git add (into staging)
+git commit
